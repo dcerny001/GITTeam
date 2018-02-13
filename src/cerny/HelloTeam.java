@@ -9,7 +9,7 @@ public class HelloTeam {
 	Funktioniert diese COdeZeile ?!
 	
 	public static void main(String[] args) {
-		
+		HAHAH HURENSOHN! 
 	}
 
 }
