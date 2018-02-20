@@ -10,9 +10,14 @@ public class HelloTeam {
 		System.out.println("Schönes Sommersemester"+"wünscht Tobi!");
 	}
 	
+	public static void hallovonSako(){
+		System.out.println("Schönes Sommersemester" + "wünscht Tobi"!);
+	}
+	
 	public static void main(String[] args) {
 		hallovonCerny();
 		hallovonTobi();
+		hallovonSako();
 	}
 
 }
